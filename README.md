@@ -74,11 +74,11 @@ Our VAE-based approach achieves efficient ECG signal reconstruction with:
 If you find this repo useful, please cite our work:
 
 ```bibtex
-@article{your2024vaereconstruction,
-  title={ECG Time Series Reconstruction with Variational Autoencoder},
-  author={[Your Name]},
-  journal={[Journal Name]},
-  year={2024}
+@article{guan2025reconstructing,
+  title={Reconstructing 12-Lead ECG from 3-Lead ECG using Variational Autoencoder to Improve Cardiac Disease Detection of Wearable ECG Devices},
+  author={Guan, Xinyan and Lai, Yongfan and Jin, Jiarui and Li, Jun and Wang, Haoyu and Zhao, Qinghao and Zhang, Deyun and Geng, Shijia and Hong, Shenda},
+  journal={arXiv preprint arXiv:2510.11442},
+  year={2025}
 }
 ```
 
