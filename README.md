@@ -1,6 +1,8 @@
-# ECG Time Series Reconstruction with VAE
+# Reconstructing 12-Lead ECG from 3-Lead ECG using Variational Autoencoder to Improve Cardiac Disease Detection of Wearable ECG Devices
 
 This repository implements a Variational Autoencoder (VAE) for ECG time series reconstruction and generation.
+
+The inference code can be found at https://github.com/PKUDigitalHealth/WearECG-downstream
 
 ## Overview
 
